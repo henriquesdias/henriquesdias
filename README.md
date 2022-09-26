@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Henrique and i'm a programming student </p>
+<p align="left">My name is Henrique and i'm a full stack programming student </p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Node JS<br><br>🎲 Fun fact: I'm a physics graduate and i love to play video games.</p>
+<p align="left">📚 I'm currently learning PostgreeSQL JS<br><br>🎲 Fun fact: I'm a physics graduate and i love to play video games.</p>
 
 ###
 
