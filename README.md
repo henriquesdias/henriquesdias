@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning PostgreeSQL JS<br><br>🎲 Fun fact: I'm a physics graduate and i love to play video games.</p>
+<p align="left">📚 I'm currently learning PostgreeSQL<br><br>🎲 Fun fact: I'm a physics graduate and i love to play video games.</p>
 
 ###
 
