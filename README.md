@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Docker<br><br>🎲 Fun fact: I'm a physics graduate and i love to play video games.</p>
+<p align="left">📚 I'm currently learning AWS<br><br>🎲 Fun fact: I'm a physics graduate and i love to play video games.</p>
 
 ###
 
