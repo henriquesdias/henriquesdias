@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Henrique and i'm a full stack programming student </p>
+<p align="left">My name is Henrique and i'm a Full Stack Web Development</p>
 
 ###
 
