@@ -12,6 +12,8 @@
 
 <p align="left">📚 I'm currently learning AWS<br><br>🎲 Fun fact: I'm a physics graduate and i love to play video games.</p>
 
+📫 How to reach me **henrique.dias1915@gmail.com**
+
 ###
 
 <h2 align="left">I code with</h2>
@@ -46,7 +48,6 @@
 </div>
 
 ###
-- 📫 How to reach me **henrique.dias1915@gmail.com**
 
 
 
