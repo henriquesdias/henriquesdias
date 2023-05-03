@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Java<br><br>🎲 Fun fact: I'm a physics graduate and i love to play video games.</p>
+<p align="left">📚 I'm currently learning Next.js<br><br>🎲 Fun fact: I'm a physics graduate and i love to play video games.</p>
 
 📫 How to reach me **henrique.dias1915@gmail.com**
 
